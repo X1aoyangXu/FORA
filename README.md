@@ -16,7 +16,7 @@ The directory contains the following files to run FORA:
 * `splitnn.py`: This file contains the code to run a split learning task.
 * `utils.py`: This file contains various functions to run main file.
 
-# Cite our work:
+# Cite our work
 ```
 @inproceedings{xu2024stealthy,
   title={A Stealthy Wrongdoer: Feature-Oriented Reconstruction Attack against Split Learning},
@@ -26,7 +26,7 @@ The directory contains the following files to run FORA:
   year={2024}
 }
 ```
-# Acknowledgment:
+# Acknowledgment
 Our partial code is based on the following contributors.
 
 Split learning framework: https://github.com/Koukyosyumei/Attack_SplitNN.
